@@ -1,16 +1,13 @@
 <div align="center">
 
-<img src="./profile-banner.png" width="100%" alt="Backend and DevOps profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=gang-mo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Cloud%20%7C%20Infrastructure&descAlignY=60&descSize=15" width="100%" alt="gang-mo profile header"/>
 
 # Hi, I'm gang-mo 👋
 
 ### Backend Developer | Cloud & DevOps
 
-Spring Boot 기반 백엔드 개발부터 Docker·Kubernetes·AWS 배포까지,  
-기능 구현과 인프라를 하나의 서비스 흐름으로 연결합니다.
-
-서비스 간 통신, CI/CD, 장애 대응, 모니터링을 함께 고민하며  
-안정적이고 확장 가능한 서비스를 만드는 개발자로 성장하고 있습니다.
+Spring Boot 백엔드를 기반으로 클라우드와 인프라 영역까지 경험을 확장하고 있습니다.  
+서비스 개발부터 배포·운영까지 연결할 수 있는 엔지니어로 꾸준히 성장하고 있습니다.
 
 </div>
 
@@ -24,7 +21,7 @@ Spring Boot MSA, RabbitMQ, Kubernetes, Istio 기반 예약 시스템과 Canary·
 ⭐ **[HearO](https://github.com/fourdushes/backend)** — DevOps & Backend  
 AWS 인프라와 GitHub Actions·ECR·Argo CD 기반 GitOps CI/CD, 운영 장애 분석 및 백엔드 일부 구현
 
-⭐ **nextDoor** — Backend & AWS Deployment  
+⭐ **[nextDoor](https://github.com/yangjoonhyung/nextDoor)** — Backend & AWS Deployment  
 Spring Boot·JPA·MySQL 백엔드 개발 및 AWS EC2 배포
 
 ⭐ **[yaeottae](https://github.com/yangjoonhyung/yaeottae)** — Backend  
@@ -38,6 +35,7 @@ Spring Boot·JPA·MySQL 백엔드 개발 및 AWS EC2 배포
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -51,6 +49,7 @@ Spring Boot·JPA·MySQL 백엔드 개발 및 AWS EC2 배포
   <img src="https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 </p>
 
 ### OS
@@ -58,6 +57,8 @@ Spring Boot·JPA·MySQL 백엔드 개발 및 AWS EC2 배포
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white"/>
 </p>
 
 ### DataBase
@@ -65,6 +66,9 @@ Spring Boot·JPA·MySQL 백엔드 개발 및 AWS EC2 배포
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 </p>
 
 ### Messaging & Integration
@@ -85,6 +89,8 @@ Spring Boot·JPA·MySQL 백엔드 개발 및 AWS EC2 배포
 <p>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
 </p>
 
 ### Version Control
@@ -119,18 +125,15 @@ Spring Boot·JPA·MySQL 백엔드 개발 및 AWS EC2 배포
   <img src="https://img.shields.io/badge/Kiali-2A3FC7?style=flat-square&logo=kiali&logoColor=white"/>
 </p>
 
+### Design
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+</p>
+
 ### Collaboration
 
 <p>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Projects-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
-
----
-
-## GitHub Stats 📊
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gang-mo&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gang-mo&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
