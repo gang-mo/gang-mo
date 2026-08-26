@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=gang-mo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Infrastructure&descAlignY=60&descSize=15" width="100%" alt="gang-mo profile header"/>
+<a href="https://github.com/gang-mo">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2C9FDB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+gang-mo;Cloud+%26+DevOps+Engineer;AWS+%C2%B7+Kubernetes+%C2%B7+GitOps+%C2%B7+Observability" alt="Typing SVG"/>
+</a>
 
 # Hi, I'm gang-mo 👋
 
