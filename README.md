@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=gang-mo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Cloud%20%7C%20Infrastructure&descAlignY=60&descSize=15" width="100%" alt="gang-mo profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=gang-mo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Infrastructure&descAlignY=60&descSize=15" width="100%" alt="gang-mo profile header"/>
 
 # Hi, I'm gang-mo 👋
 
-### Backend Developer | Cloud & DevOps
+### Cloud & DevOps Engineer | Backend Experience
 
-Spring Boot 백엔드를 기반으로 클라우드와 인프라 영역까지 경험을 확장하고 있습니다.  
-서비스 개발부터 배포·운영까지 연결할 수 있는 엔지니어로 꾸준히 성장하고 있습니다.
+백엔드 개발 경험을 바탕으로 클라우드와 DevOps 역량을 확장하고 있습니다.  
+안정적인 배포·운영 환경을 설계하고 자동화할 수 있는 엔지니어로 성장하고 있습니다.
 
 </div>
 
@@ -15,10 +15,10 @@ Spring Boot 백엔드를 기반으로 클라우드와 인프라 영역까지 경
 
 ## My Projects 👨‍💻
 
-⭐ **[Cloud Infra Project](https://github.com/dushes12/Cloud-Infra-Project)** — Full Stack & Infrastructure  
+⭐ **[Cloud Infra Project](https://github.com/dushes12/Cloud-Infra-Project)** — Cloud Infrastructure & DevOps  
 Spring Boot MSA, RabbitMQ, Kubernetes, Istio 기반 예약 시스템과 Canary·Fault·Rollback·Observability 구현
 
-⭐ **[HearO](https://github.com/fourdushes/backend)** — DevOps & Backend  
+⭐ **[HearO](https://github.com/fourdushes/backend)** — AWS Infrastructure & GitOps  
 AWS 인프라와 GitHub Actions·ECR·Argo CD 기반 GitOps CI/CD, 운영 장애 분석 및 백엔드 일부 구현
 
 ⭐ **[nextDoor](https://github.com/yangjoonhyung/nextDoor)** — Backend & AWS Deployment  
