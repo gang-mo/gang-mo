@@ -29,7 +29,7 @@ Spring Boot·JPA·MySQL 백엔드 개발 및 AWS EC2 배포
 
 ---
 
-## Cloud & DevOps Stack ☁️
+## Tech Stack 🛠️
 
 ### Cloud Infrastructure
 
