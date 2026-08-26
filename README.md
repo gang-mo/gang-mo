@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2C9FDB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+gang-mo;Cloud+%26+DevOps+Engineer;AWS+%C2%B7+Kubernetes+%C2%B7+GitOps+%C2%B7+Observability" alt="Typing SVG"/>
 </a>
 
-### Cloud & DevOps Engineer | Backend Experience
+### Cloud & DevOps Engineer | Backend Developer
 
 백엔드 개발 경험을 바탕으로 클라우드와 DevOps 역량을 확장하고 있습니다.  
 안정적인 배포·운영 환경을 설계하고 자동화할 수 있는 엔지니어로 성장하고 있습니다.
@@ -79,7 +79,7 @@ Spring Boot·JPA·MySQL 백엔드 개발 및 AWS EC2 배포
 
 ---
 
-## Development Experience 💻
+## Development Stack 💻
 
 ### Language
 
