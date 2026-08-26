@@ -29,7 +29,7 @@ Spring Boot·JPA·MySQL 백엔드 개발 및 AWS EC2 배포
 
 ---
 
-## Tech Stack 🛠️
+## Cloud & DevOps Stack ☁️
 
 ### Cloud Infrastructure
 
@@ -117,13 +117,12 @@ Spring Boot·JPA·MySQL 백엔드 개발 및 AWS EC2 배포
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-FF0000?style=flat-square&logo=oracle&logoColor=white"/>
 </p>
 
-### Tools & Collaboration
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
@@ -131,7 +130,13 @@ Spring Boot·JPA·MySQL 백엔드 개발 및 AWS EC2 배포
   <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+</p>
+
+### Collaboration
+
+<p>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Projects-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
 ---
