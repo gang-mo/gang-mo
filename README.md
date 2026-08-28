@@ -146,6 +146,6 @@ Spring Boot·JPA·MySQL 백엔드 개발 및 AWS EC2 배포
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=gang-mo&theme=tokyonight&hide_border=true)
+<img src="./assets/github-activity.svg" width="100%" alt="GitHub Activity"/>
 
 </div>
