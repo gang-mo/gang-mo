@@ -15,10 +15,10 @@
 
 ## My Projects 👨‍💻
 
-⭐ **[Cloud Infra Project](https://github.com/dushes12/Cloud-Infra-Project)** — Cloud Infrastructure & DevOps  
+⭐ **[Cloud Infra Project](https://github.com/dushes12)** — Cloud Infrastructure & DevOps  
 Spring Boot MSA, RabbitMQ, Kubernetes, Istio 기반 예약 시스템과 Canary·Fault·Rollback·Observability 구현
 
-⭐ **[HearO](https://github.com/fourdushes/backend)** — AWS Infrastructure & GitOps  
+⭐ **[HearO](https://github.com/fourdushes)** — AWS Infrastructure & GitOps  
 AWS 인프라와 GitHub Actions·ECR·Argo CD 기반 GitOps CI/CD, 운영 장애 분석 및 백엔드 일부 구현
 
 ⭐ **[nextDoor](https://github.com/yangjoonhyung/nextDoor)** — Backend & AWS Deployment  
